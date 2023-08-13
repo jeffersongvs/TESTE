@@ -1,2 +1,16 @@
 Ola, mundo
 TESTANDo
+
+criou branch nova no outro lado
+
+git pull - trouxe esse nova branch
+
+git checkout will - mudei
+
+editei 
+
+git add .
+
+git commit -m "Teste"
+
+git push origin will
